@@ -360,6 +360,12 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 ---
 
+## Phase 9 (optional): make the boot menu look good
+
+The default GRUB menu is plain text. It is fully themeable, and you can reduce it to exactly two entries, Fedora and Windows 11, with a 1080p background and real icons. See [BOOT_UI.md](BOOT_UI.md) for both routes: theming GRUB (recommended, leaves the signed boot chain alone) and replacing the picker with rEFInd (better looking, costs you a second MOK enrollment and manual updates forever).
+
+---
+
 ## Final verification checklist
 
 Run these once and you know the whole stack landed:
