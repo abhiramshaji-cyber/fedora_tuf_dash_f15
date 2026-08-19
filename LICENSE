@@ -1,0 +1,12 @@
+Copyright (c) 2026 Abhiram Shaji
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). You are free to share and adapt this material for any
+purpose, including commercially, provided you give appropriate credit.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The instructions in this repository are provided without warranty of any kind.
+Partitioning a disk and changing firmware settings can destroy data. You are
+responsible for your own backups, and for verifying each command against your own
+hardware before you run it.

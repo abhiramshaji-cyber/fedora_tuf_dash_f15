@@ -418,3 +418,11 @@ Expected: Secure Boot enabled, the driver present, the GPU `suspended`, all thre
 * [LaptopMedia FX516 specs](https://laptopmedia.com/laptop-specs/asus-tuf-dash-f15-852/) and [FX517 specs](https://laptopmedia.com/ca/laptop-specs/asus-tuf-dash-f15-fx517-36/) — model year differences
 * [Notebookcheck FX517ZM review](https://www.notebookcheck.net/Asus-TUF-Dash-15-FX517ZM-i5-12450H.693860.0.html) — RTX 3060 power limits
 * [os-prober and GRUB on Fedora](https://itsfoss.com/grub-os-prober/) — restoring the Windows entry
+
+## Contributing
+
+Corrections are the most valuable contribution here, and every command is meant to be verified rather than guessed. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Licence
+
+Documentation licensed CC BY 4.0. See [LICENSE](LICENSE).
